@@ -6,9 +6,10 @@
 ``` html
 https://jsdelivr.richardli.de/gh/RichardQt/Static_Resource_Acceleration/<xx>
 ```
-或
+或 （推荐使用下方）
 ``` html
 https://cdn.mengze.vip/gh/RichardQt/Static_Resource_Acceleration/<xx>
 ```
 **`<xx>` 为该仓库下文件名称**
+
 
