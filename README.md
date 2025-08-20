@@ -4,5 +4,10 @@
 
 ### 常见使用方式
 ``` html
-https://jsdelivr.richardli.de/gh/RichardQt/
+https://jsdelivr.richardli.de/gh/RichardQt/Static_Resource_Acceleration
 ```
+或
+``` html
+https://cdn.mengze.vip/gh/RichardQt/Static_Resource_Acceleration
+```
+
